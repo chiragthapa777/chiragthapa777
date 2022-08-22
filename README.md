@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Thapa</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Nestjs, React Native**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **MERN stack**
 
