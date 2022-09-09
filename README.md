@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PASAL - multivendor online store**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI, DotNet, Angular**
 
 - 💬 Ask me about **NodeJS, Express, SQL , Database Design, ReactJS**
 
