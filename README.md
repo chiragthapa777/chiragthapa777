@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chirag Thapa</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
+- 💼 I’m currently working as a **Backend devloper** at Logispark
 
-- 🔭 I’m currently working on **PASAL - multivendor online store**
+- 🔭 I’m currently working on a personal project **PASAL - multivendor online store**
 
 - 🌱 I’m currently learning **FastAPI, DotNet, Angular**
 
