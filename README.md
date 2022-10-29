@@ -3,7 +3,7 @@
 
 - 💼 I’m currently working as a **Backend Developer** at Logispark
 
-- 🔭 I’m currently working on a personal project **PASAL - multivendor online store**
+- 🔭 I’m currently working on a personal project **PASAL - multivendor online store** <a href="https://github.com/chiragthapa777/pasal-backend">link</a>
 
 - 🌱 I’m currently learning **FastAPI, DotNet, Angular**
 
