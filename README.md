@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI, DotNet, Angular**
 
-- 💬 Ask me about **NodeJS, Express, SQL , Database Design, ReactJS**
+- 💬 Ask me about **NodeJS, Express, SQL , Database Design, ReactJS, NextJS**
 
 - 📫 How to reach me **chiragthapa777@gmail.com**
 
